@@ -1,0 +1,67 @@
+[
+  {
+    "userId": "user123",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "passwordHash": "$2b$10$eImiTXuWVxfM37uY4JANj.Q/kJUwCzhwTSr5RhjD4aVjK7pVlj3T6",
+    "location": "San Francisco, CA",
+    "bio": "Full-stack developer with a passion for open-source projects.",
+    "profileImageUrl": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "socialLinks": {
+      "github": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "linkedin": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "userId": "user124",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "passwordHash": "$2b$10$us4v8aCzEZs9QfFVV/8OKeOk4UQzxF0pjFBS6nJFDQUFMjsoYlQlm",
+    "location": "New York, NY",
+    "bio": "Data scientist and machine learning enthusiast.",
+    "profileImageUrl": "https://example.com/profiles/jane_smith.jpg",
+    "socialLinks": {
+      "github": "https://github.com/janesmith",
+      "linkedin": "https://linkedin.com/in/janesmith"
+    }
+  },
+  {
+    "userId": "user125",
+    "name": "Alex King",
+    "email": "alex.king@example.com",
+    "passwordHash": "$2b$10$7GuG8/T0FYIu5J1cLLyUpOwjVZPXHqX8Q1Zn2ZJbJL5OPqFjQcKKa",
+    "location": "Austin, TX",
+    "bio": "Backend engineer specializing in scalable microservices.",
+    "profileImageUrl": "https://example.com/profiles/alex_king.jpg",
+    "socialLinks": {
+      "github": "https://github.com/alexking",
+      "linkedin": "https://linkedin.com/in/alexking"
+    }
+  },
+  {
+    "userId": "user126",
+    "name": "Maria Garcia",
+    "email": "maria.garcia@example.com",
+    "passwordHash": "$2b$10$ZR2pQ6mVCe5r3YzI8XGHTOHIC8xgNffbTJ0/nmXIFHLj/eO/2B2MW",
+    "location": "Miami, FL",
+    "bio": "UX/UI designer focused on creating intuitive interfaces.",
+    "profileImageUrl": "https://example.com/profiles/maria_garcia.jpg",
+    "socialLinks": {
+      "behance": "https://behance.net/mariagarcia",
+      "linkedin": "https://linkedin.com/in/mariagarcia"
+    }
+  },
+  {
+    "userId": "user127",
+    "name": "Chris Lee",
+    "email": "chris.lee@example.com",
+    "passwordHash": "$2b$10$4aHn2/Y7kTpzKjZXjzxl9Q5f0H/TOiOsnD5BLfYXwlg2QfP7zI71G",
+    "location": "Seattle, WA",
+    "bio": "Front-end developer with expertise in modern web frameworks.",
+    "profileImageUrl": "https://example.com/profiles/chris_lee.jpg",
+    "socialLinks": {
+      "github": "https://github.com/chrislee",
+      "linkedin": "https://linkedin.com/in/chrislee"
+    }
+  }
+]

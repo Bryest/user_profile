@@ -1,0 +1,70 @@
+[
+  {
+    "userId": "user123",
+    "name": "John Doe",
+    "location": "San Francisco, CA",
+    "bio": "Software Engineer developer with a passion for open-source projects.",
+    "profileImageUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2680&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "socialLinks": {
+      "github": "https://github.com/johndoe",
+      "linkedin": "https://linkedin.com/in/johndoe",
+      "stackoverflow": "https://stackoverflow.com/users/1234567/johndoe",
+      "twitter": "https://twitter.com/johndoe",
+      "devto": "https://dev.to/johndoe"
+    }
+  },
+  {
+    "userId": "user124",
+    "name": "Jane Smith",
+    "location": "New York, NY",
+    "bio": "Data scientist and machine learning enthusiast.",
+    "profileImageUrl": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "socialLinks": {
+      "github": "https://github.com/janesmith",
+      "linkedin": "https://linkedin.com/in/janesmith",
+      "stackoverflow": "https://stackoverflow.com/users/2345678/janesmith",
+      "twitter": "https://twitter.com/janesmith",
+      "devto": "https://dev.to/janesmith"
+    }
+  },
+  {
+    "userId": "user125",
+    "name": "Alex King",
+    "location": "Austin, TX",
+    "bio": "Backend engineer specializing in scalable microservices.",
+    "profileImageUrl": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "socialLinks": {
+      "github": "https://github.com/alexking",
+      "linkedin": "https://linkedin.com/in/alexking",
+      "stackoverflow": "https://stackoverflow.com/users/3456789/alexking",
+      "twitter": "https://twitter.com/alexking",
+      "devto": "https://dev.to/alexking"
+    }
+  },
+  {
+    "userId": "user126",
+    "name": "Maria Garcia",
+    "location": "Miami, FL",
+    "bio": "UX/UI designer focused on creating intuitive interfaces.",
+    "profileImageUrl": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "socialLinks": {
+      "behance": "https://behance.net/mariagarcia",
+      "linkedin": "https://linkedin.com/in/mariagarcia",
+      "twitter": "https://twitter.com/mariagarcia"
+    }
+  },
+  {
+    "userId": "user127",
+    "name": "Chris Lee",
+    "location": "Seattle, WA",
+    "bio": "Front-end developer with expertise in modern web frameworks.",
+    "profileImageUrl": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "socialLinks": {
+      "github": "https://github.com/chrislee",
+      "linkedin": "https://linkedin.com/in/chrislee",
+      "stackoverflow": "https://stackoverflow.com/users/4567890/chrislee",
+      "twitter": "https://twitter.com/chrislee",
+      "devto": "https://dev.to/chrislee"
+    }
+  }
+]

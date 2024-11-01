@@ -1,0 +1,20 @@
+{
+    "totalUsers": 5,
+    "popularSkills": [
+      { "skill": "JavaScript", "count": 3 },
+      { "skill": "Python", "count": 2 },
+      { "skill": "React", "count": 2 }
+    ],
+    "averageEndorsements": {
+      "JavaScript": 11.7,
+      "Python": 16,
+      "React": 10
+    },
+    "experienceDistribution": {
+      "Frontend Developer": 2,
+      "Data Scientist": 1,
+      "Backend Engineer": 1,
+      "UX Designer": 1
+    }
+  }
+  

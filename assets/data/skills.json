@@ -1,0 +1,43 @@
+[
+    {
+      "userId": "user123",
+      "skills": [
+        { "skill": "JavaScript", "proficiency": "Advanced", "endorsements": 15 },
+        { "skill": "React", "proficiency": "Intermediate", "endorsements": 10 },
+        { "skill": "Flutter", "proficiency": "Advanced", "endorsements": 8 }
+      ]
+    },
+    {
+      "userId": "user124",
+      "skills": [
+        { "skill": "Python", "proficiency": "Advanced", "endorsements": 20 },
+        { "skill": "Machine Learning", "proficiency": "Intermediate", "endorsements": 12 },
+        { "skill": "Data Analysis", "proficiency": "Advanced", "endorsements": 15 }
+      ]
+    },
+    {
+      "userId": "user125",
+      "skills": [
+        { "skill": "Java", "proficiency": "Advanced", "endorsements": 12 },
+        { "skill": "Spring Boot", "proficiency": "Advanced", "endorsements": 10 },
+        { "skill": "Microservices", "proficiency": "Intermediate", "endorsements": 5 }
+      ]
+    },
+    {
+      "userId": "user126",
+      "skills": [
+        { "skill": "UX Design", "proficiency": "Advanced", "endorsements": 18 },
+        { "skill": "Adobe XD", "proficiency": "Intermediate", "endorsements": 9 },
+        { "skill": "Figma", "proficiency": "Advanced", "endorsements": 15 }
+      ]
+    },
+    {
+      "userId": "user127",
+      "skills": [
+        { "skill": "HTML/CSS", "proficiency": "Advanced", "endorsements": 14 },
+        { "skill": "Vue.js", "proficiency": "Intermediate", "endorsements": 7 },
+        { "skill": "JavaScript", "proficiency": "Advanced", "endorsements": 10 }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,62 @@
+[
+  {
+    "userId": "user123",
+    "projects": [
+      { 
+        "projectId": "proj001", 
+        "title": "Real-Time Chat Application", 
+        "description": "A chat app with real-time messaging and notifications, built with Firebase.", 
+        "technologies": ["React", "Firebase"],
+        "projectUrl": "https://portfolio-3d-renato.vercel.app/"
+      }
+    ]
+  },
+  {
+    "userId": "user124",
+    "projects": [
+      { 
+        "projectId": "proj002", 
+        "title": "Predictive Model for Customer Churn", 
+        "description": "A machine learning model to predict customer churn in a telecom dataset.", 
+        "technologies": ["Python", "scikit-learn"],
+        "projectUrl": "https://example.com/customer-churn-model"
+      }
+    ]
+  },
+  {
+    "userId": "user125",
+    "projects": [
+      { 
+        "projectId": "proj003", 
+        "title": "E-Commerce Platform", 
+        "description": "An e-commerce platform with user authentication and payment integration.", 
+        "technologies": ["Java", "Spring Boot"],
+        "projectUrl": "https://example.com/e-commerce-platform"
+      }
+    ]
+  },
+  {
+    "userId": "user126",
+    "projects": [
+      { 
+        "projectId": "proj004", 
+        "title": "Mobile App Design for E-Learning", 
+        "description": "Designed an intuitive mobile app for an e-learning platform.", 
+        "technologies": ["Adobe XD", "Figma"],
+        "projectUrl": "https://example.com/e-learning-app-design"
+      }
+    ]
+  },
+  {
+    "userId": "user127",
+    "projects": [
+      { 
+        "projectId": "proj005", 
+        "title": "Responsive Portfolio Website", 
+        "description": "A responsive website showcasing design and front-end skills.", 
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "projectUrl": "https://example.com/portfolio-website"
+      }
+    ]
+  }
+]
