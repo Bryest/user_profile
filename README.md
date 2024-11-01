@@ -10,7 +10,7 @@ This Flutter application showcases a developer's professional profile, including
    - Displays user's profile picture, name, location, bio, top skills, and social links.
    - Below the profile section, there are buttons to navigate to the user's Skills, Experience, and Projects.
 
-   <img src="images/Screenshot_1730454602.png" alt="Professional Summary Portrait" width="300">
+   <img src="images/professional_summary.png" alt="Professional Summary Portrait" width="300">
 
 2. **User Skills Screen**
    - Lists the user's skills with proficiency level and endorsement count.
